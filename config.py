@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "20318304"
+API_ID = "24313439"
 # -------------------------------------------------------------
-API_HASH = "66b0a797adb0e779b57708117a6fe1f2"
+API_HASH = "a007ea183e9276803caba61ad093273b"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-STRING1 = getenv("STRING_SESSION", None)
-MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "6953998697"))
-SUPPORT_GRP = "sweetheart_hub"
-UPDATE_CHNL = "itz_soulmates"
-OWNER_USERNAME = "ll_malware_ll"
+BOT_TOKEN = getenv("BOT_TOKEN", "7718680866:AAEX_SfFMaE6efdwoGlFjxQnFVVNYV-Yx1g")
+STRING1 = getenv("STRING_SESSION", "BQFy_l8ATqoLGnvyauM5yWnNjDX1k8J9HUQmEmyczAKGRVg7BJmEWO0qLYQ25At1ycxywKV00iV1DELrvN76bqlygOInqxuQwyC4th4eZJ7MWDK9LosQjkBpZlakXPa2N9uCBsw58pqy-sz4CGt9qMcMZRXy18soKCV-2x6kLvo_La783CckOYVx1iIuQPNyxai0U-NX-lYtXC24ys6CVwHjTIrvUlfHEqWFuJhYBJ80MqnDrAj9DaFUzshzHzuW0Po_y5FJIbyJ5AIBw6EEnVLO6JIm5hA_yZGM4cx3RDXcegEcQb4yAX2ZFeU9GC0WyXmXrIolIZgr5PyWdwQXyjnM2hB7bAAAAAGyiepSAA")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://botbaby:botbaby@cluster0.zngip1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+OWNER_ID = int(getenv("OWNER_ID", "7290350162"))
+SUPPORT_GRP = "infinitygx_bot_support"
+UPDATE_CHNL = "gxinfinity_support"
+OWNER_USERNAME = "Its_tg_seller"
